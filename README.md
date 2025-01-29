@@ -38,6 +38,13 @@ A video file containing an explanation and demo of the project. It showcases:
 - 🎯 Querying performance-based incentives
 - 🔥 The overall usability of the system
 
+# *📥 Watch Video
+
+You can watch the video directly on Vimeo by clicking the link below:
+
+[📹 Watch Video on Vimeo](https://vimeo.com/1051696361/8c449c9e0e)
+
+
 # *📥 Download Video
 
 You can download the video directly from the link below:
