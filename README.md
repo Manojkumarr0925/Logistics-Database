@@ -30,13 +30,22 @@ The dataset used in this project is generated using Mockaroo and includes the fo
 4. ✏️ Edit incorrect entries by selecting a date and modifying the values.
 
 # * 🎬 Video Demonstration
-A video file containing an explanation and demo of the project will be uploaded. It showcases:
+A video file containing an explanation and demo of the project. It showcases:
 - 🆓 How to set up a free trial Snowflake account easily for beginners
 - 📌 How data is queried from the Snowflake database
 - 📈 Methods used to analyze logistics data
 - 📑 Steps to filter, sort, and detect errors
 - 🎯 Querying performance-based incentives
 - 🔥 The overall usability of the system
+
+# *📥 Download Video
+
+You can download the video directly from the link below:
+
+[📹 Download Video](https://github.com/Manojkumarr0925/Logistics-Database/raw/main/path/to/your/video.mp4)
+
+Enjoy watching!
+
 
 # * ✅ Conclusion
 This project provides an efficient way to manage logistics data. By leveraging SQL and Snowflake, it offers valuable insights into fleet operations, helping logistics managers make informed decisions.
